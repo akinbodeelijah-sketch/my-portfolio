@@ -30,33 +30,31 @@ I focus on identifying vulnerabilities, analyzing risks, and helping organizatio
 *A glimpse of some of the projects I've been working on.*
 
 **📂 Featured Projects**
-🕵️ Vulnerability Assessment – Torilo Academy
-
+🕵️ Vulnerability Assessment – Torilo Academy, Cisco
 Reconnaissance: WHOIS, DNS, OSINT
-
 Port scanning & enumeration: Nmap
-
 Web application scanning: Wapiti, WhatWeb
-
 Outcome: Identified web exposure and open ports
 📄 [View Report] (file:///C:/Users/USER/Documents/Toriloacademy%20Vulnerability%20Report.pdf)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**🌐 Web Application Security Lab**
+Setup: DVWA for testing
+Practiced attacks: SQL Injection, XSS, CSRF, File Upload
+Outcome: Lab exercises completed and documented
+📄 [View Findings] (link your lab notes PDF here)
 
-![image](2 anietie etuk data analytics sales project.jpg)
+**📡 Wi-Fi Security Testing Lab**
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+Lab: Captured WPA handshakes in controlled environment
+Tested tools: Bettercap & Ettercap
+Outcome: Practiced cracking methods safely
+📄 [View Notes] (link your lab notes PDF here)
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+**🎓 Certifications & Learning**
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](3 anietie etuk data analytics agro project.jpg)
-
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
-
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
-
+Forage (in progress)
+Toriloacademy: Cybersecurity + Ethical Hacking Mastery (in progress)
+Blue Team Labs Online (in progress)
 
 ## CONTACT DETAILS
 
@@ -81,11 +79,11 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/elijah-akinbode-0141b6380">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td><a href="https://www.youtube.com/@EliAkins-x2j">Watch my tutorials on YouTube</a></td>
     </tr>
   </tbody>
 </table>
