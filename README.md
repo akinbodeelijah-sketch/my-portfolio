@@ -10,23 +10,21 @@ I’m constantly learning new tools and improving my skills in areas like networ
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
-## WHAT I DO
+## 💼 What I Do
 
-*I specialize in ethical hacking and cybersecurity analysis, blending my business administration background with strong technical security skills.
+*I work on ethical hacking and cybersecurity projects, focusing on finding and understanding security weaknesses in systems, websites, and networks. I use tools like Nmap, Burp Suite, Wireshark, Metasploit, and WhatWeb to test and analyze vulnerabilities.
 
-I focus on identifying vulnerabilities, analyzing risks, and helping organizations strengthen their digital defenses. My goal is to bridge the gap between business risk management and technical security operations — understanding how attacks happen, why they matter, and how to prevent them.*
+I enjoy doing information gathering (OSINT), vulnerability scanning, and penetration testing to see how real attacks happen and how to stop them. I also create reports and security summaries to explain risks clearly and show how they can be fixed.
 
-## Skills & Tools:
+Everything I do is about learning, improving, and building practical cybersecurity skills that connect both the technical and business side of security..*
 
-🕵️ Penetration Testing — I perform hands-on web and network pentests using tools like Nmap, Burp Suite, Metasploit, and OWASP ZAP to uncover vulnerabilities.
+## 🚀 Skills & Tools:
 
-🌍 Information Gathering (OSINT) — I research domains and systems using WHOIS, dig, Shodan, and WhatWeb to gather intel before a test.
+I work with a wide range of cybersecurity tools and techniques that help me test, analyze, and secure systems. My main skills include information gathering, vulnerability assessment, penetration testing, and web application security.
 
-🔐 Vulnerability Assessment — I scan, identify, and report system weaknesses with professional tools like Nikto, Wapiti, and Wireshark.
+I utilize tools such as Nmap, Burp Suite, Metasploit, Nikto, Wapiti, Wireshark, WhatWeb, and Bettercap to identify and comprehend vulnerabilities in networks and web applications.
 
-🧠 Threat Analysis & Reporting — I analyze test results, interpret risks, and write professional vulnerability and threat assessment reports.
-
-💻 Web App Security Labs — I set up controlled lab environments (DVWA, Juice Shop, etc.) to practice and demonstrate attacks such as SQLi, XSS, CSRF, and File Upload exploits. 
+I’m also experienced with OSINT tools such as WHOIS, dig, and Shodan for collecting background information before testing. On the reporting side, I create vulnerability reports, threat assessments, and incident summaries to clearly explain risks and solutions.
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
