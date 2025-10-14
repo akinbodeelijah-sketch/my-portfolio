@@ -57,7 +57,7 @@ Outcome: Identified web exposure and open ports
 
 **📡 Wi-Fi Security Testing Lab**
 
-* Lab: Captured WPA handshakes in controlled environment
+* Lab: Captured WPA handshakes in a controlled environment
 
 * Tested tools: Bettercap & Ettercap
 
@@ -111,4 +111,5 @@ Blue Team Labs Online (in progress)
 
 
 Raw File by Akinbode Elijah.txt
+
 Displaying Raw File by Akinbode Elijah.txt.
