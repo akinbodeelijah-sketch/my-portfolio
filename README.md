@@ -84,7 +84,7 @@ Blue Team Labs Online (in progress)
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 901-303-2065</td>
     </tr>
     <tr>
       <td>📍</td>
