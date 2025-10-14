@@ -1,6 +1,6 @@
 # my-portfolio
 <!--Section 1: Introduce your self-->
-## ABOUT ME
+## 👋 About Me
 
 I’m Akinbode Elijah, a Business Administration student with a deep passion for Cybersecurity and Ethical Hacking. I combine my understanding of business risks with technical security testing to help identify and reduce vulnerabilities that could impact organizations.
 
