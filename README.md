@@ -2,7 +2,11 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I’m Akinbode Elijah, a Business Administration student with a passion for Cybersecurity. I’m building a career that combines business risk awareness with technical hands-on security testing.
+I’m Akinbode Elijah, a Business Administration student with a deep passion for Cybersecurity and Ethical Hacking. I combine my understanding of business risks with technical security testing to help identify and reduce vulnerabilities that could impact organizations.
+
+I enjoy working on real-world security labs, performing penetration testing, OSINT research, and vulnerability analysis to understand how attacks happen and how to prevent them.
+
+I’m constantly learning new tools and improving my skills in areas like network security, web application testing, and threat assessment — aiming to build a career that connects business strategy with cyber defense.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
