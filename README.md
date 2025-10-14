@@ -30,30 +30,45 @@ I focus on identifying vulnerabilities, analyzing risks, and helping organizatio
 *A glimpse of some of the projects I've been working on.*
 
 **📂 Featured Projects**
+
 🕵️ Vulnerability Assessment – Torilo Academy, Cisco
+
 Reconnaissance: WHOIS, DNS, OSINT
+
 Port scanning & enumeration: Nmap
+
 Web application scanning: Wapiti, WhatWeb
+
 Outcome: Identified web exposure and open ports
+
 📄 [View Report] (file:///C:/Users/USER/Documents/Toriloacademy%20Vulnerability%20Report.pdf)
 
 **🌐 Web Application Security Lab**
-Setup: DVWA for testing
-Practiced attacks: SQL Injection, XSS, CSRF, File Upload
-Outcome: Lab exercises completed and documented
+
+* Setup: DVWA for testing
+
+* Practiced attacks: SQL Injection, XSS, CSRF, File Upload
+
+* Outcome: Lab exercises completed and documented
+
 📄 [View Findings] (link your lab notes PDF here)
 
 **📡 Wi-Fi Security Testing Lab**
 
-Lab: Captured WPA handshakes in controlled environment
-Tested tools: Bettercap & Ettercap
-Outcome: Practiced cracking methods safely
+* Lab: Captured WPA handshakes in controlled environment
+
+* Tested tools: Bettercap & Ettercap
+
+* Outcome: Practiced cracking methods safely
+
 📄 [View Notes] (link your lab notes PDF here)
 
 **🎓 Certifications & Learning**
 
 Forage (in progress)
+
 Toriloacademy: Cybersecurity + Ethical Hacking Mastery (in progress)
+
 Blue Team Labs Online (in progress)
 
 ## CONTACT DETAILS
