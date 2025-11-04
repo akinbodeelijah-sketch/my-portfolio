@@ -43,7 +43,7 @@ Web application scanning: Wapiti, WhatWeb
 
 Outcome: Identified web exposure and open ports
 
-📄 [View Report] (file:///C:/Users/USER/Documents/Toriloacademy%20Vulnerability%20Report.pdf)
+📄 [View Report] (https://github.com/akinbodeelijah-sketch/my-portfolio/blob/main/Cisco%20Pentest.docx)
 
 **🌐 Web Application Security Lab**
 
