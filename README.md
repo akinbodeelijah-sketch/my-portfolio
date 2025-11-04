@@ -29,11 +29,14 @@ I’m also experienced with OSINT tools such as WHOIS, dig, and Shodan for colle
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
 
-*A glimpse of some of the projects I've been working on.*
+# 👋 Hi — A glimpse of my security & pentest work
 
+Below are featured projects showing methodology, tools, and downloadable reports.
+
+--
 **📂 Featured Projects**
 
-🕵️ Vulnerability Assessment – Torilo Academy, Cisco
+## 🕵️ Vulnerability Assessment – Ibadan Electricity Distribution Company (IBEDC), Cisco
 
 Reconnaissance: WHOIS, DNS, OSINT
 
@@ -43,8 +46,22 @@ Web application scanning: Wapiti, WhatWeb
 
 Outcome: Identified web exposure and open ports
 
-📄 [Download Report] (https://github.com/akinbodeelijah-sketch/my-portfolio/blob/main/Cisco%20Pentest.docx)
+📥 [Download full report] (https://github.com/akinbodeelijah-sketch/my-portfolio/blob/main/Cisco%20Pentest.docx)
 📄 [Download Report] (https://github.com/akinbodeelijah-sketch/my-portfolio/raw/refs/heads/main/Cisco_Pentest_Report_Slides_DarkTheme.pptx)
+
+
+## ⚡ Penetration Test — Ibadan Electricity Distribution Company (IBEDC)
+**Tools / Recon:** whois, dig/nslookup, theHarvester, subfinder, WhatWeb, nmap, wafw00f, gobuster, feroxbuster, nikto, nuclei, wpscan, sqlmap, curl, traceroute/ping, nc, theHarvester.  
+
+**Summary:** Large subdomain footprint (~265+), several admin endpoints discovered, missing security headers, outdated JS libraries, and exposed endpoints that require remediation. Immediate recommendations: restrict admin interfaces, enable WAF rules, add security headers (CSP/HSTS), patch libraries, and conduct an authenticated pentest.  
+📥 [Download full report (DOCX/PDF)](https://github.com/YourUsername/data-science-portfolio/blob/main/Vulnerability_Assessment/IBEDC.docx)
+
+**Note:** The public report is **redacted** of any credentials or PII. For sensitive evidence or raw logs, contact me directly or provide a private link.
+
+---
+
+### Want to review the raw evidence?
+I keep the full dump and tool outputs in the repo `Vulnerability_Assessment/appendix/` (sanitized). If you'd like, I can help produce redacted screenshots or a PDF excerpt for non-technical stakeholders.
 
 
 **🌐 Web Application Security Lab**
