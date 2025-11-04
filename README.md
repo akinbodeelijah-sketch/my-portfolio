@@ -36,19 +36,12 @@ Below are featured projects showing methodology, tools, and downloadable reports
 --
 **📂 Featured Projects**
 
-## 🕵️ Vulnerability Assessment – Ibadan Electricity Distribution Company (IBEDC), Cisco
+## 🕵️ Vulnerability Assessment – Cisco
 
-Reconnaissance: WHOIS, DNS, OSINT
+**Tools / Recon:** whois, dig/nslookup, theHarvester, subfinder, WhatWeb, nmap, wafw00f, nikto, wpascan  
+**Outcome:** Identified web exposure and open ports; recommended hardening steps.
 
-Port scanning & enumeration: Nmap
-
-Web application scanning: Wapiti, WhatWeb
-
-Outcome: Identified web exposure and open ports
-
-📥 [Download full report] (https://github.com/akinbodeelijah-sketch/my-portfolio/blob/main/Cisco%20Pentest.docx)
-📄 [Download Report] (https://github.com/akinbodeelijah-sketch/my-portfolio/raw/refs/heads/main/Cisco_Pentest_Report_Slides_DarkTheme.pptx)
-
+📥 [Download full report (DOCX/PDF)](https://github.com/akinbodeelijah-sketch/my-portfolio/blob/main/Cisco%20Pentest.docx)
 
 ## ⚡ Penetration Test — Ibadan Electricity Distribution Company (IBEDC)
 **Tools / Recon:** whois, dig/nslookup, theHarvester, subfinder, WhatWeb, nmap, wafw00f, gobuster, feroxbuster, nikto, nuclei, wpscan, sqlmap, curl, traceroute/ping, nc, theHarvester.  
