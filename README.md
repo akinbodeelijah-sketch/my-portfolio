@@ -54,7 +54,7 @@ Outcome: Identified web exposure and open ports
 **Tools / Recon:** whois, dig/nslookup, theHarvester, subfinder, WhatWeb, nmap, wafw00f, gobuster, feroxbuster, nikto, nuclei, wpscan, sqlmap, curl, traceroute/ping, nc, theHarvester.  
 
 **Summary:** Large subdomain footprint (~265+), several admin endpoints discovered, missing security headers, outdated JS libraries, and exposed endpoints that require remediation. Immediate recommendations: restrict admin interfaces, enable WAF rules, add security headers (CSP/HSTS), patch libraries, and conduct an authenticated pentest.  
-📥 [Download full report (DOCX/PDF)](https://github.com/YourUsername/data-science-portfolio/blob/main/Vulnerability_Assessment/IBEDC.docx)
+📥 [Download full report (DOCX/PDF)](https://github.com/akinbodeelijah-sketch/my-portfolio/raw/refs/heads/main/IBEDC.docx.docx)
 
 **Note:** The public report is **redacted** of any credentials or PII. For sensitive evidence or raw logs, contact me directly or provide a private link.
 
